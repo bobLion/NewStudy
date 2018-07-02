@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="load_failure_color">#ffb6b6b6</color>
+
+
+    <!-- mateteria_color -->
+    <color name="material_blue">#2196f3</color>
+    <color name="material_blue_dark">#1976d2</color>
+    <color name="material_indigo">#3f51b5</color>
+    <color name="material_yellow">#ffeb3b</color>
+    <color name="material_green">#4caf50</color>
+    <color name="material_red">#ffcf4240</color>
+
+
+    <!-- 头部背景色，标题 -->
+    <color name="header">#1976d2</color>
+    <color name="bg_light_blue">#2196f3</color>
+    <color name="transparent">#00000000</color>
+    <color name="header_title_select">#ffcf4240</color>
+    <color name="header_title">#fff2f2f2</color>
+
+    <color name="bg">#FFFFFFFF</color>
+    <color name="bg_press">#fff0f0f0</color>
+
+    <!-- 字体颜色，应用中字体颜色在此定义 -->
+    <color name="font_middle_gray">#ff798089</color>
+    <color name="font_deep_gray">#ff999999</color>
+    <color name="font_color_main">#444444</color>
+    <color name="font_color_sub">#ff7d7d7d</color>
+    <color name="font_color_tip">#377bb3</color>
+    <color name="font_tool_tip">#ff3279c9</color>
+    <color name="color_warning">#ffd9534f</color>
+
+
+    <color name="tab_text_unselected">#828990</color>
+    <color name="app_main_color">#3F51B5</color>
+    <color name="app_main_color_deep">#303F9F</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#f4f4f4</color>
+    <color name="progress_end">#87CEEB</color>
+    <color name="progress_start">#87CEEB</color>
+    <color name="green">#15de33</color>
+    <color name="orange">#f4c600</color>
+    <color name="yellow_light">#f2eec2</color>
+    <color name="red">#f45a5a</color>
+    <color name="gray_black">#777575</color>
+    <color name="pink">#e65050</color>
+
+</resources>

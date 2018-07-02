@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="customer_header">48dp</dimen>
+    <dimen name="customer_bottom">55dp</dimen>
+
+    <dimen name="widget_container_length_2">2dp</dimen>
+    <dimen name="widget_container_length_5">5dp</dimen>
+    <dimen name="widget_container_length_8">8dp</dimen>
+    <dimen name="widget_container_length_10">10dp</dimen>
+    <dimen name="widget_container_length_15">15dp</dimen>
+    <dimen name="widget_container_length_20">20dp</dimen>
+    <dimen name="widget_container_length_30">30dp</dimen>
+    <dimen name="widget_container_length_35">35dp</dimen>
+    <dimen name="widget_container_length_50">50dp</dimen>
+    <dimen name="widget_container_length_60">60dp</dimen>
+    <dimen name="widget_container_length_90">90dp</dimen>
+    <dimen name="widget_container_length_200">200dp</dimen>
+
+    <dimen name="btn_height_30">30dp</dimen>
+    <dimen name="btn_height_40">40dp</dimen>
+
+    <!--图片宽度-->
+    <dimen name="icon_width_10">10dp</dimen>
+    <dimen name="icon_width_15">15dp</dimen>
+    <dimen name="icon_width_20">20dp</dimen>
+    <dimen name="icon_width_25">25dp</dimen>
+    <dimen name="icon_width_30">30dp</dimen>
+    <dimen name="icon_width_50">50dp</dimen>
+    <dimen name="icon_width_90">90dp</dimen>
+
+    <!--定义页面字体大小-->
+    <dimen name="font_size_10">10.0sp</dimen>
+    <dimen name="font_size_12">12.0sp</dimen>
+    <dimen name="font_size_14">14.0sp</dimen>
+    <dimen name="font_size_16">16.0sp</dimen>
+    <dimen name="font_size_18">18.0sp</dimen>
+    <dimen name="font_size_20">20.0sp</dimen>
+    <dimen name="font_size_24">24.0sp</dimen>
+    <dimen name="font_size_28">28.0sp</dimen>
+    <dimen name="font_size_30">30.0sp</dimen>
+    <dimen name="font_size_medium">18.0sp</dimen>
+    <dimen name="font_size_extra_large">20sp</dimen>
+    <dimen name="font_size_small">14sp</dimen>
+    <dimen name="font_size_extra_medium">16sp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="icon_width_35">35dp</dimen>
+    <dimen name="icon_width_40">40dp</dimen>
+    <dimen name="icon_width_60">60dp</dimen>
+    <dimen name="icon_width_68">68dp</dimen>
+    <dimen name="icon_width_110">110dp</dimen>
+    <dimen name="icon_width_340">340dp</dimen>
+    <dimen name="icon_width_400">400dp</dimen>
+
+    <dimen name="account_header_section_height">56dp</dimen>
+    <dimen name="account_header_text_padding">16dp</dimen>
+    <dimen name="account_header_text_size">14sp</dimen>
+    <dimen name="header">50dp</dimen>
+
+    <dimen name="widget_small_margin">2dp</dimen>
+    <dimen name="widget_container_margin">5dp</dimen>
+    <dimen name="widget_container_first_margin">10dp</dimen>
+    <dimen name="widget_container_extra_margin">15dp</dimen>
+    <dimen name="widget_container_bigger_margin">20dp</dimen>
+    <dimen name="widget_container_first_padding">10dp</dimen>
+    <dimen name="widget_container_extra_padding">20dp</dimen>
+    <dimen name="widget_container_bigger_padding">25dp</dimen>
+    <dimen name="list_item_margin_left_start">5dp</dimen>
+    <dimen name="list_item_margin_left_long">25dp</dimen>
+    <dimen name="list_item_margin_top_start">5dp</dimen>
+    <dimen name="list_item_margin_top">10dp</dimen>
+    <dimen name="list_item_margin_bottom">5dp</dimen>
+    <dimen name="list_item_margin_top_start_5">5dp</dimen>
+    <dimen name="list_item_margin_top_5">2dp</dimen>
+    <dimen name="list_item_margin_top_start_4">5dp</dimen>
+    <dimen name="list_item_margin_top_4">6dp</dimen>
+    <dimen name="lb_title_padding">5dp</dimen>
+    <dimen name="lb_content_paddingTop">5dp</dimen>
+    <dimen name="lb_content_paddingBottom">5dp</dimen>
+    <dimen name="lb_content_paddingLeft">10dp</dimen>
+    <dimen name="lb_content_paddingRight">10dp</dimen>
+    <dimen name="detail_item_height">50dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="font_size_fail">32sp</dimen>
+    <dimen name="icon_width_bigger">68dp</dimen>
+    <!--定义页面字体大小-->
+    <dimen name="font_size_extra_small">10.0sp</dimen>
+</resources>
